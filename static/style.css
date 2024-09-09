@@ -1,4 +1,4 @@
-/* Ogólne style */
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f4f4f9;
@@ -35,7 +35,7 @@ header nav ul li a:hover {
     text-decoration: underline;
 }
 
-/* Główna zawartość */
+
 main {
     padding: 20px;
     max-width: 800px;
@@ -51,7 +51,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* Lista książek */
+
 ul {
     list-style-type: none;
     padding: 0;
@@ -60,7 +60,7 @@ ul {
 ul li {
     padding: 10px;
     margin: 10px 0;
-    background-color: #e8e8e8;
+    background-color: #440d0d;
     border-radius: 5px;
     display: flex;
     justify-content: space-between;
@@ -93,7 +93,7 @@ ul li button:hover {
     background-color: #d32f2f;
 }
 
-/* Formularze */
+
 form {
     display: flex;
     flex-direction: column;
@@ -125,7 +125,7 @@ form button:hover {
     background-color: #45a049;
 }
 
-/* Wiadomości flash */
+
 .flash {
     background-color: #f1f1f1;
     color: #333;
